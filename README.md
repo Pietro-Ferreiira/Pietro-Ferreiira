@@ -55,4 +55,4 @@ Atualmente focado em evoluir minha base técnica através de **prática contínu
 🐍 Praticando lógica e desenvolvimento de scripts com Python
 🌐 Fortalecendo fundamentos de redes, protocolos e infraestrutura
 💻 Desenvolvendo projetos práticos e consolidando versionamento com Git
-🗄️ Estudando modelagem e gerenciamento de Banco de Dados
+🗄️ Estudando modelagem de Banco de Dados
