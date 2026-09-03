@@ -5,8 +5,10 @@
 ### Computer Science Student • SysAdmin Aspirant • Tech Enthusiast
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pietro-Ferreira)
-[![LinkedIn](https://www.linkedin.com/in/pietro-ferreira-2295b43b5?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
+
 </div>
+
 
 ---
 
